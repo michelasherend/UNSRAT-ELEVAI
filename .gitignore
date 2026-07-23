@@ -1,0 +1,15 @@
+# Environment Variables & Secrets
+.env
+*.env
+!.env.example
+
+# Runtime Data & Logs
+data/
+*.log
+webui.db
+
+# Node / IDE Cache
+node_modules/
+.vscode/
+.idea/
+
