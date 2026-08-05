@@ -28,10 +28,10 @@ cd UNSRAT-ELEVAI
  
 ### 2. Siapkan Ollama dan unduh model
  
-Pastikan Ollama sudah berjalan, lalu unduh model Llama 3.1 8B:
+Pastikan Ollama sudah berjalan, lalu unduh model dari ollama:
  
 ```bash
-ollama pull llama3.1:8b
+ollama pull llama3.1:8b (contoh model)
 ```
  
 > **Catatan:** Karena Open-WebUI berjalan di dalam Docker dan mengakses Ollama di host melalui alamat `172.17.0.1:11434`, pastikan Ollama mendengarkan di semua alamat. Jika Ollama hanya terikat ke `localhost`, jalankan dengan:
