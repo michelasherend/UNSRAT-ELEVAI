@@ -37,11 +37,11 @@ Volume pada proyek ini dikonfigurasi sebagai external, sehingga harus dibuat ter
 bash
 docker volume create open-webui
 
-5. Jalankan aplikasi
+1. Jalankan aplikasi
 bash
 docker compose up -d
 
-6. Akses aplikasi
+2. Akses aplikasi
 Buka browser dan kunjungi:
 http://localhost:3000
 Login menggunakan akun Google dengan domain @student.unsrat.ac.id atau @unsrat.ac.id.
