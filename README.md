@@ -1,6 +1,7 @@
 # UNSRAT-ELEVAI
 
 Aplikasi Asisten Akademik Digital Berbasis Large Language Model (LLM) Universitas Sam Ratulangi.
+
 UNSRAT-ELEVAI adalah chatbot asisten akademik yang berjalan secara on-premise, dibangun menggunakan model dari ollama dengan arsitektur Retrieval-Augmented Generation (RAG). Sistem ini dirancang untuk menjawab pertanyaan seputar informasi akademik UNSRAT secara akurat sekaligus meminimalkan halusinasi jawaban.
 ## Arsitektur & Teknologi
 Model LLM: Menggunakan model Ollama
