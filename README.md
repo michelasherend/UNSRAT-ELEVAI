@@ -62,4 +62,4 @@ bash
 docker compose logs -f
 ## Penulis
 
-## Michella Sheeren Talumewo Teknik Informatika, Fakultas Teknik — Universitas Sam Ratulangi.
+Michella Sheeren Talumewo Teknik Informatika, Fakultas Teknik — Universitas Sam Ratulangi.
