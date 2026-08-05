@@ -26,7 +26,7 @@ Pastikan Ollama sudah berjalan, lalu unduh model yang sesuai
 
 ollama pull *llama3.1:8b* (contoh model)
 
-4. Siapkan file konfigurasi (.env)
+3. Siapkan file konfigurasi (.env)
 Salin file contoh environment, lalu isi dengan nilai kamu sendiri:
 cp .env.example .env
 Buka file .env dan lengkapi kredensial Google OAuth sesuai konfigurasi di Google Cloud Console:
