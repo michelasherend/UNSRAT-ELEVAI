@@ -16,7 +16,7 @@ Autentikasi: Google OAuth (dibatasi domain UNSRAT)
 |----------|-----------|-------|
 | Sistem Operasi | Linux (Ubuntu) | Lingkungan utama, mengelola resource & menjalankan Docker/Ollama |
 | LLM Runtime | Ollama | Mengunduh, menjalankan & menyediakan API untuk model lokal |
-| Model Bahasa | Llama 3.1 8B | Model baseline penghasil jawaban |
+| Model Bahasa | Llama 3.1 8B | Model baseline penghasil jawaban (sesuaikan dengan server yang digunakan)|
 | Model Embedding | bge-m3 | Konversi teks dokumen menjadi vektor untuk RAG |
 | Kontainerisasi | Docker | Isolasi & deployment Open-WebUI |
 | Antarmuka | Open-WebUI | UI web + backend interaksi pengguna |
