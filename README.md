@@ -211,7 +211,7 @@ Registrasi/login → mulai bertanya. Jawaban berbasis dokumen akan menampilkan *
 - **`bge-m3` wajib di-pull** sebelum RAG bisa berjalan; tanpa model embedding, proses vektorisasi dokumen gagal.
 - **Model embedding harus diset ke Ollama + bge-m3** di Settings > Documents, bukan model bawaan yang berorientasi Bahasa Inggris.
 
----
+```
  
 ## Penulis
  
